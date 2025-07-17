@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\stavc\OneDrive\Рабочий стол\Fernandes_Zhekov_Artushok_TTT\Source.cpp(31,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Fernandes_Zhekov_Artushok_TTT.vcxproj -> C:\Users\stavc\OneDrive\Рабочий стол\Fernandes_Zhekov_Artushok_TTT\x64\Debug\Fernandes_Zhekov_Artushok_TTT.exe
